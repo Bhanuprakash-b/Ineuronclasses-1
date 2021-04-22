@@ -1,2 +1,2 @@
-# Ineuronclasses-1
+# IneuronAssignments
 Assignments
